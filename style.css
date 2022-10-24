@@ -11,4 +11,22 @@ body{
     align-items: center;
     justify-content: center;
     gap: 5%;
+    background: black;
+}
+
+button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 5%;
+    height: 7%;
+    color: gray;
+    background: white;
+    font-size: 40px;
+}
+
+#cont{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color: white;
 }
